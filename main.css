@@ -1,0 +1,32 @@
+body {
+    background: #F1F5F9;
+}
+
+div {
+    display: inline-block;
+    background:;
+    text-align: center;
+    width: 800px;
+    margin-top: 180px;
+    margin-left: 380px;
+    margin-bottom: 0;
+}
+
+p {
+    display: block;
+    text-align: right;
+    font-size: 40px;
+    margin-top: 0;
+    margin-right: 50px;
+}
+
+a {
+    display: inline-block;
+    font-size: 12px;
+    background-color: #41CB9A;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 550px;
+}
